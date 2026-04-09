@@ -37,7 +37,7 @@ export default function Slide4Devotion() {
           <p className="text-xl font-light leading-relaxed">
             Tech är verktyget. Business är målet.
           </p>
-          <p className="text-[16px] font-light mt-4" style={{ color: "#a0a0b8" }}>
+          <p className="text-[16px] font-light mt-4" style={{ color: "#c0c0d0" }}>
             80/20 – 20% jobb ska göra 80% av värdet.
             <br />
             AI-first. Language agnostic. Output driven.
@@ -62,9 +62,9 @@ export default function Slide4Devotion() {
               transition={{ delay: 0.4 + i * 0.06, duration: 0.3 }}
               className="px-4 py-2 rounded-full text-[14px]"
               style={{
-                border: "1px solid rgba(249,115,22,0.25)",
-                backgroundColor: "rgba(249,115,22,0.07)",
-                color: "#e0b894",
+                border: "1px solid rgba(249,115,22,0.4)",
+                backgroundColor: "rgba(249,115,22,0.10)",
+                color: "#f0c8a0",
                 fontFamily: "var(--font-dm)",
               }}
             >

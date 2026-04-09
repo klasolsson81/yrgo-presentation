@@ -95,7 +95,7 @@ export default function Slide9Kontakt() {
         >
           <QRCodeSVG
             value="https://www.linkedin.com/in/klasolsson81"
-            size={240}
+            size={360}
             bgColor="transparent"
             fgColor="#ffffff"
             level="H"
